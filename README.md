@@ -5,20 +5,20 @@
 
 ## 🔍 About Us  
 The Avraamidou Research Group focuses on advancing the field of Chemical and Process Systems Engineering.  
-We develop tools for better understanding, analyzing, and optimizing complex chemical processes :contentReference[oaicite:1]{index=1}.
+We develop tools for better understanding, analyzing, and optimizing complex chemical processes.
 
 ---
 
 ## 🏆 Research Themes  
-- **Process Systems Engineering**: Innovative methods to model and improve chemical process systems :contentReference[oaicite:2]{index=2}  
-- **Circular Economy Systems**: Undergraduate contributions toward circular economy frameworks :contentReference[oaicite:3]{index=3}  
+- **Process Systems Engineering**: Innovative methods to model and improve chemical process systems  
+- **Circular Economy Systems**: Undergraduate contributions toward circular economy frameworks  
 - **Optimization & Decision‑making**: Tools for energy markets and production processes (e.g. multi-parametric programming)
 
 ---
 
 ## 👥 Team  
 - **Dr. Styliani Avraamidou**, PI  
-  Assistant Professor, CBE, UW–Madison; based in Engineering Hall (Room 2004) :contentReference[oaicite:4]{index=4}  
+  Assistant Professor, CBE, UW–Madison
 - Graduate students, postdocs, and undergraduates working across projects in process systems and circular economy.
 
 ---
