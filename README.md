@@ -1,4 +1,4 @@
-# Avraamidou Research Group 🧪🔬  
+# Avraamidou Research Group 🔬📈📊🖥️
 **Department of Chemical & Biological Engineering, University of Wisconsin–Madison**
 
 ---
